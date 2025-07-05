@@ -1,0 +1,47 @@
+name,country,latitude,longitude,type,thermalPower,active
+Akkuyu 1,Turkey,36.147,33.511,PWR,1114,false
+Beaver Valley 1,USA,40.651,-79.731,PWR,913,true
+Beaver Valley 2,USA,40.655,-79.729,PWR,905,true
+Braidwood 1,USA,41.092,-88.233,PWR,1194,true
+Braidwood 2,USA,41.092,-88.233,PWR,1160,true
+Diablo Canyon 1,USA,35.2,-120.85,PWR,1138,true
+Diablo Canyon 2,USA,35.2,-120.85,PWR,1118,true
+Paluel 1,France,49.61,1.567,PWR,1340,true
+Paluel 2,France,49.61,1.567,PWR,1340,true
+Paluel 3,France,49.61,1.567,PWR,1340,true
+Paluel 4,France,49.61,1.567,PWR,1340,true
+Gravelines 1,France,50.99,1.13,PWR,910,true
+Gravelines 2,France,50.99,1.13,PWR,910,true
+Gravelines 3,France,50.99,1.13,PWR,910,true
+Gravelines 4,France,50.99,1.13,PWR,910,true
+Yangjiang 1,China,21.71,112.26,PWR,1000,true
+Yangjiang 2,China,21.71,112.26,PWR,1000,true
+Yangjiang 3,China,21.71,112.26,PWR,1000,true
+Yangjiang 4,China,21.71,112.26,PWR,1000,true
+Yangjiang 5,China,21.71,112.26,PWR,1000,true
+Yangjiang 6,China,21.71,112.26,PWR,1000,true
+Taishan 1,China,21.68,112.78,PWR,1750,true
+Taishan 2,China,21.68,112.78,PWR,1750,true
+Kori 1,South Korea,35.33,129.30,PWR,1000,true
+Kori 2,South Korea,35.33,129.30,PWR,1000,true
+Kori 3,South Korea,35.33,129.30,PWR,1040,true
+Kori 4,South Korea,35.33,129.30,PWR,1040,true
+Shin Hanul 1,South Korea,36.62,129.37,PWR,1260,true
+Shin Hanul 2,South Korea,36.62,129.37,PWR,1260,true
+Balakovo 1,Russia,51.68,46.00,PWR,950,true
+Balakovo 2,Russia,51.68,46.00,PWR,950,true
+Balakovo 3,Russia,51.68,46.00,PWR,950,true
+Balakovo 4,Russia,51.68,46.00,PWR,950,true
+Kursk 1,Russia,51.61,35.79,RBMK,925,true
+Kursk 2,Russia,51.61,35.79,RBMK,925,true
+Civaux 1,France,46.21,0.95,PWR,1495,true
+Civaux 2,France,46.21,0.95,PWR,1495,true
+Daya Bay 1,China,22.53,114.55,PWR,944,true
+Daya Bay 2,China,22.53,114.55,PWR,944,true
+Oconee 1,USA,34.79,-82.72,PWR,847,true
+Oconee 2,USA,34.81,-82.72,PWR,848,true
+Oconee 3,USA,34.82,-82.72,PWR,859,true
+Arkansas Nuclear One 1,USA,35.71,-92.73,PWR,836,true
+Arkansas Nuclear One 2,USA,35.72,-92.73,PWR,988,true
+Takahama 3,Japan,35.48,135.17,PWR,1050,true
+Takahama 4,Japan,35.48,135.17,PWR,1050,true
