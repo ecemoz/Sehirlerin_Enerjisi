@@ -88,7 +88,7 @@ GET /api/impact
     },
     "distanceKm": 8415.34,
     "impactScore": 0.29341,
-    "impactLevel": "MODERATE"
+    "impactLevel": "LOW"
   }
 ]
 ```
